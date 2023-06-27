@@ -1,8 +1,8 @@
 .pyramid {
     width: 47%
-    display: inline;
+    display: inline-block;
 }
 
 p {
-    display: inline;
+    display: inline-block;
 }
