@@ -2,6 +2,10 @@
     height: 800px;
 }
 
+.footer {
+    margin: auto;
+}    
+
 p {
     font-size: 12px;
     margin-top: 5px;
